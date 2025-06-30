@@ -1,32 +1,58 @@
+<!--  ==========================================================
+      Profile README – production-ready template (2025 edition)
+      Replace every <ALL_CAPS> placeholder with real content.
+      ========================================================== -->
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am M•Adiل « Kamboh » 👨‍💻
+<!-- HERO / BANNER ------------------------------------------------>
+<p align="center">
+  <img src="https://reheader.app/api/v1/banner?text=<BANNER_TEXT>" alt="Banner showing <BANNER_TEXT>">
+</p>
 
-I am a Full Stack JavaScript Developer and Learning enthusiast. I am passionate about technologies and love to learn new things.
+<!-- INTRO -------------------------------------------------------->
+### 👋 Hi, I’m **<YOUR_NAME>**
 
-## ⚡ Tech Stack
+- 🏗️ Building **<CORE_DOMAIN>**
+- 🛠️ Languages & frameworks: <LANGUAGES_AND_TECH>
+- 🔬 Current obsession: **<TECHNICAL_FOCUS_LINE>**
 
-Here are a few things I've picked up along my learning journey.
+---
 
+<!-- SNAPSHOT METRICS -------------------------------------------->
+#### 📊 Engineering Snapshot
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&theme=transparent)
+![Advanced metrics](https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_USERNAME>/main/github-metrics.svg)
 
-  ![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&logo=Docker&logoColor=abebff) ![GraphQl](https://img.shields.io/badge/-GraphQL-000?style=for-the-badge&logo=GraphQL&logoColor=4479A1) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1) 
-  
- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![React](https://img.shields.io/badge/React-5CD0EE?style=for-the-badge&logo=react&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
- ![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)  ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
- 
- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
- 
- ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
- 
- ![](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+<!-- FEATURED WORK ----------------------------------------------->
+#### 🚀 Featured Work
+| Project | What it does | Impact |
+|---------|--------------|--------|
+| **<REPO_ONE>** | <ONE-LINE_DESC> | <IMPACT_METRIC> |
+| **<REPO_TWO>** | <ONE-LINE_DESC> | <IMPACT_METRIC> |
+| **<REPO_THREE>** | <ONE-LINE_DESC> | <IMPACT_METRIC> |
 
-## 📫 Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-adi%D9%84-%C2%AB-kamboh-%C2%BB-52b09111b)
+---
 
+<!-- BLOG AUTO-FEED  (actions-rss/blog-post-workflow will replace) -->
+#### ✍️ Latest Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
- or give some ♥ on [mail](mailto:adilzubari852@gmail.com) .
+---
 
+<!-- CONTACT & COMMUNITY ----------------------------------------->
+<p align="center">
+  <a href="mailto:<PUBLIC_EMAIL>"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="<LINKEDIN_URL>"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <!-- Optional socials – add or remove -->
+  <!-- <a href="<MASTODON_URL>"><img src="https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"></a> -->
+  <!-- <a href="<TWITTER_URL>"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" alt="Twitter / X"></a> -->
+</p>
 
+---
 
-
- 
+<!-- FOOTER ------------------------------------------------------->
+<p align="center">
+  <sub>Last refreshed on <!--TIMESTAMP_START-->2025-06-30<!--TIMESTAMP_END--></sub>
+</p>
