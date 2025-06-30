@@ -5,7 +5,7 @@
 
 <!-- HERO / BANNER ------------------------------------------------>
 <p align="center">
-  <img src="https://reheader.app/api/v1/banner?text=<BANNER_TEXT>" alt="Banner showing <BANNER_TEXT>">
+  <img ="https://reheader.app/api/v1/banner?text=Adil%20Muhammad%20%7C%20Full-Stack%20Engineer%20%26%20AI%20Builder" alt="Banner showing Adil Muhammad | Full-Stack Engineer & AI Builder"> 
 </p>
 
 <!-- INTRO -------------------------------------------------------->
