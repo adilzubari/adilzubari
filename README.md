@@ -9,18 +9,18 @@
 </p>
 
 <!-- INTRO -------------------------------------------------------->
-### 👋 Hi, I’m **<YOUR_NAME>**
+### 👋 Hi, I’m **Adil Muhammad**
 
-- 🏗️ Building **<CORE_DOMAIN>**
-- 🛠️ Languages & frameworks: <LANGUAGES_AND_TECH>
-- 🔬 Current obsession: **<TECHNICAL_FOCUS_LINE>**
+- 🏗️ Building **AI-first developer tooling and intelligent web infrastructure**
+- 🛠️ Languages & frameworks: TypeScript, Python, Go, React, Next.js, Node.js, PostgreSQL, Docker
+- 🔬 Current obsession: **Deploying LLM-powered agents at scale using lightweight microservices**
 
 ---
 
 <!-- SNAPSHOT METRICS -------------------------------------------->
 #### 📊 Engineering Snapshot
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&theme=transparent)
-![Advanced metrics](https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_USERNAME>/main/github-metrics.svg)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adilzubari&show_icons=true&theme=transparent)
+![Advanced metrics](https://raw.githubusercontent.com/adilzubari/adilzubari/main/github-metrics.svg)
 
 ---
 
