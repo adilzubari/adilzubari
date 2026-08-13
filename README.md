@@ -48,6 +48,21 @@
 
 ---
 
+<!-- LIVE AI DEMOS --------------------------------------------->
+#### 🎯 Live AI Demos
+
+Four working demos around one fictional business (**Summit Trails**, a Banff tours company) — an
+end-to-end AI-enablement story. **[▶ See them all in one place →](https://summit-trails-ai-demos.vercel.app)**
+
+| Demo | What it does | Links |
+|---|---|---|
+| **AI Chatbot** | Website support agent grounded on the business content + lead capture | [Live](https://summit-trails-chatbot.vercel.app) · [Code](https://github.com/adilzubari/summit-trails-chatbot) |
+| **AI Automation** | n8n workflow: AI triages inbound leads → Google Sheet + Slack, drafts replies | [Code](https://github.com/adilzubari/summit-trails-automation) |
+| **Custom GPT / RAG** | Answers only from your docs, with citations and grounded refusals | [Live](https://summit-trails-assistant.vercel.app) · [Code](https://github.com/adilzubari/summit-trails-assistant) |
+| **AI Integration** | Streaming AI summarize + auto-tag dropped into an existing app | [Live](https://summit-trails-ai-integration.vercel.app) · [Code](https://github.com/adilzubari/summit-trails-ai-integration) |
+
+---
+
 <!-- TECH / TOOLBOX -------------------------------------------->
 #### 🧰 Tech Stack at a Glance
 <p>
