@@ -43,7 +43,6 @@
 * **LLM cost-guardrails** — serverless proxy that rate-limits tokens per partner and auto-switches between GPT-4o and Bedrock Titan based on SLA.  
 * **Autonomous agents (Make.com)**  
   * **Daily News Digest** — agent scrapes 200 + RSS feeds, deduplicates with cosine-similarity, summarises via GPT-4o and posts a Slack digest at 08:00 GST.  
-  * **Job-Match Alerts** — vectorises my resume, polls 6 hiring APIs, ranks matches with an embedding similarity score ≥ 0.75 and pushes a private Telegram DM.  
   * **AI Inbox** — natural-language interface (WhatsApp → Make.com → OpenAI Functions) that can trigger CI/CD pipelines, check server health and schedule on-call swaps.
 
 ---
